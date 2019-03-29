@@ -1,0 +1,21 @@
+[submodule "sources/service-api"]
+	path = sources/service-api
+	url = https://github.com/reportportal/service-api.git
+[submodule "sources/commons"]
+	path = sources/commons
+	url = https://github.com/reportportal/commons.git
+[submodule "sources/commons-dao"]
+	path = sources/commons-dao
+	url = https://github.com/reportportal/commons-dao.git
+[submodule "sources/commons-model"]
+	path = sources/commons-model
+	url = https://github.com/reportportal/commons-model.git
+[submodule "sources/commons-rules"]
+	path = sources/commons-rules
+	url = https://github.com/reportportal/commons-rules.git
+[submodule "sources/plugin-api"]
+	path = sources/plugin-api
+	url = https://github.com/reportportal/plugin-api.git
+[submodule "sources/agent-java-junit5"]
+	path = sources/agent-java-junit5
+	url = https://github.com/reportportal/agent-java-junit5.git
