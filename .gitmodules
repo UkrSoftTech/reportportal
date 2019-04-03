@@ -19,3 +19,6 @@
 [submodule "sources/agent-java-junit5"]
 	path = sources/agent-java-junit5
 	url = https://github.com/reportportal/agent-java-junit5.git
+[submodule "sources/client-java"]
+	path = sources/client-java
+	url = https://github.com/reportportal/client-java.git
